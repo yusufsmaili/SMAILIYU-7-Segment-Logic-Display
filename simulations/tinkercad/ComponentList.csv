@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"UPOWER",1," Arduino Uno R3"
+"U1",1," Hex Inverter"
+"U2, U4, U3, U5",4," Quad AND gate"
+"USegments A, B, &amp; C, USegments D, E, USegment F, G",3," Quad OR gate"
+"Digit1",1,"Cathode 7 Segment Display"
+"Ra, Rb, Rc, Re, Rf, Rg, Rd",7,"220 Ω Resistor"
+"U6",1," 4-Bit Binary Counter"
+"U7",1," Timer"
+"CTiming Capacitor",1,"47 uF, 16 V Polarized Capacitor"
+"R1, R2",2,"10 kΩ Resistor"
+"CNoise Filtering Capacitor",1,"0.01 nF Capacitor"
